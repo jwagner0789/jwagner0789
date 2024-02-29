@@ -2,6 +2,7 @@
 
 [![General badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-c-wagner/)
 [![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)](https://www.reddit.com/r/PowerShell/)
+![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
 
 ![General badge](https://github-readme-streak-stats.herokuapp.com/?user=jwagner0789)
 
